@@ -1,0 +1,48 @@
+C:\Users\gatoe\Desktop\Grafica de linea\Grafica de linea\bin\Debug\Grafica de linea.exe.config
+C:\Users\gatoe\Desktop\Grafica de linea\Grafica de linea\bin\Debug\Grafica de linea.exe
+C:\Users\gatoe\Desktop\Grafica de linea\Grafica de linea\bin\Debug\Grafica de linea.pdb
+C:\Users\gatoe\Desktop\Grafica de linea\Grafica de linea\obj\Debug\Grafica de linea.csproj.AssemblyReference.cache
+C:\Users\gatoe\Desktop\Grafica de linea\Grafica de linea\obj\Debug\Grafica_de_linea.Form1.resources
+C:\Users\gatoe\Desktop\Grafica de linea\Grafica de linea\obj\Debug\Grafica_de_linea.Properties.Resources.resources
+C:\Users\gatoe\Desktop\Grafica de linea\Grafica de linea\obj\Debug\Grafica de linea.csproj.GenerateResource.cache
+C:\Users\gatoe\Desktop\Grafica de linea\Grafica de linea\obj\Debug\Grafica de linea.csproj.CoreCompileInputs.cache
+C:\Users\gatoe\Desktop\Grafica de linea\Grafica de linea\obj\Debug\Grafica de linea.exe
+C:\Users\gatoe\Desktop\Grafica de linea\Grafica de linea\obj\Debug\Grafica de linea.pdb
+C:\Users\gatoe\Desktop\Grafica de linea\Grafica de linea\bin\Debug\Guna.UI2.dll
+C:\Users\gatoe\Desktop\Grafica de linea\Grafica de linea\obj\Debug\Grafica .B71A1A5F.Up2Date
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea\Grafica de linea\bin\Debug\Grafica de linea.exe.config
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea\Grafica de linea\bin\Debug\Grafica de linea.exe
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea\Grafica de linea\bin\Debug\Grafica de linea.pdb
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea\Grafica de linea\bin\Debug\Guna.UI2.dll
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea\Grafica de linea\obj\Debug\Grafica de linea.csproj.AssemblyReference.cache
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea\Grafica de linea\obj\Debug\Grafica_de_linea.Form1.resources
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea\Grafica de linea\obj\Debug\Grafica_de_linea.Properties.Resources.resources
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea\Grafica de linea\obj\Debug\Grafica de linea.csproj.GenerateResource.cache
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea\Grafica de linea\obj\Debug\Grafica de linea.csproj.CoreCompileInputs.cache
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea\Grafica de linea\obj\Debug\Grafica .B71A1A5F.Up2Date
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea\Grafica de linea\obj\Debug\Grafica de linea.exe
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea\Grafica de linea\obj\Debug\Grafica de linea.pdb
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea2\Grafica de linea\bin\Debug\Grafica de linea.exe.config
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea2\Grafica de linea\bin\Debug\Grafica de linea.exe
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea2\Grafica de linea\bin\Debug\Grafica de linea.pdb
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea2\Grafica de linea\bin\Debug\Guna.UI2.dll
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea2\Grafica de linea\obj\Debug\Grafica de linea.csproj.AssemblyReference.cache
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea2\Grafica de linea\obj\Debug\Grafica_de_linea.Form1.resources
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea2\Grafica de linea\obj\Debug\Grafica_de_linea.Properties.Resources.resources
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea2\Grafica de linea\obj\Debug\Grafica de linea.csproj.GenerateResource.cache
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea2\Grafica de linea\obj\Debug\Grafica de linea.csproj.CoreCompileInputs.cache
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea2\Grafica de linea\obj\Debug\Grafica .B71A1A5F.Up2Date
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea2\Grafica de linea\obj\Debug\Grafica de linea.exe
+\\Mac\SSD-EXTERNO\Descargas\Grafica de linea2\Grafica de linea\obj\Debug\Grafica de linea.pdb
+C:\Users\Admin\Downloads\Grafica de linea\Grafica de linea\bin\Debug\Grafica de linea.exe.config
+C:\Users\Admin\Downloads\Grafica de linea\Grafica de linea\bin\Debug\Grafica de linea.exe
+C:\Users\Admin\Downloads\Grafica de linea\Grafica de linea\bin\Debug\Grafica de linea.pdb
+C:\Users\Admin\Downloads\Grafica de linea\Grafica de linea\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Downloads\Grafica de linea\Grafica de linea\obj\Debug\Grafica de linea.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Grafica de linea\Grafica de linea\obj\Debug\Grafica_de_linea.Form1.resources
+C:\Users\Admin\Downloads\Grafica de linea\Grafica de linea\obj\Debug\Grafica_de_linea.Properties.Resources.resources
+C:\Users\Admin\Downloads\Grafica de linea\Grafica de linea\obj\Debug\Grafica de linea.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Grafica de linea\Grafica de linea\obj\Debug\Grafica de linea.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Grafica de linea\Grafica de linea\obj\Debug\Grafica .B71A1A5F.Up2Date
+C:\Users\Admin\Downloads\Grafica de linea\Grafica de linea\obj\Debug\Grafica de linea.exe
+C:\Users\Admin\Downloads\Grafica de linea\Grafica de linea\obj\Debug\Grafica de linea.pdb
